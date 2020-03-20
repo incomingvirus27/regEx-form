@@ -1,0 +1,23 @@
+.container{
+	border: 3px solid gray;
+	width: 500px;
+	margin-top:100px;
+	margin-bottom: 200px;
+	
+}
+
+input, button{
+	width: 100%;
+	padding: 4px;
+	margin: 4px;
+	
+}
+#submit{
+	background: #000000;
+	color: #fff;
+	text-align: center;
+	cursor: pointer;
+}
+.rad{
+	margin: 12px;
+}
